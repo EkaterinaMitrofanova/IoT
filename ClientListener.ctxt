@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=topic\ message
+comment0.target=void\ messageArrived(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ connected()
+comment2.params=
+comment2.target=void\ connectionFailed()
+numComments=3
